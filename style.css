@@ -159,3 +159,27 @@ h2 {
   width: 461px;
   height: 186px;
 }
+
+.cods i {
+  color: #837e9f;
+  position: absolute;
+  left: 30px;
+  top: 30px;
+}
+
+.cods h3 {
+  color: #837e9f;
+  position: absolute;
+  left: 66px;
+  top: 31px;
+  font-size: 16px;
+  bottom: 22px;
+}
+
+.cods p {
+  color: #837e9f;
+  position: absolute;
+  left: 30px;
+  top: 70px;
+  font-size: 14px;
+}
