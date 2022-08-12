@@ -51,6 +51,7 @@ h2 {
   margin-top: 30px;
   margin-bottom: 20px;
 }
+
 .profile p {
   font-size: 13px;
   font-weight: 300px;
@@ -68,10 +69,17 @@ h2 {
 .info li {
   list-style: none;
   color: #837e9f;
-  font-size: 12px;
+  font-size: 13px;
   padding-top: 30px;
   padding-left: 40px;
 }
+
+.info ul i {
+  width: 24px;
+  height: 24px;
+  padding-right: 20px;
+}
+
 
 .tec {
   margin-top: 740px;
@@ -160,11 +168,25 @@ h2 {
   height: 186px;
 }
 
-.cods i {
+.icon-folder {
   color: #837e9f;
   position: absolute;
   left: 30px;
   top: 30px;
+}
+
+.icon-star {
+  color: #837e9f;
+  position: absolute;
+  left: 30px;
+  top: 136px;
+}
+
+.icon-git-branch {
+  color: #837e9f;
+  position: absolute;
+  left: 102px;
+  top: 136px;
 }
 
 .cods h3 {
@@ -182,4 +204,100 @@ h2 {
   left: 30px;
   top: 70px;
   font-size: 14px;
+}
+
+.cods .js {
+  position: absolute;
+  left: 362px;
+  top: 138px;
+}
+
+.ball {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #E7DE79;
+  border: #837E9F solid 2px;
+  position: absolute;
+  left: 339px;
+  top: 138px;
+}
+
+.card-one {
+  color: #837e9f;
+  position: absolute;
+  left: 58px;
+  top: 138px;
+  font-size: 14px;
+}
+
+.card-two {
+  color: #837e9f;
+  position: absolute;
+  left: 130px;
+  top: 138px;
+  font-size: 14px;
+}
+
+.two {
+  margin-top: 157px;
+  margin-left: 939px;
+  width: 461px;
+  height: 186px;
+}
+
+.recents {
+  margin-top: 373px;
+  margin-left: 448px;
+  width: 952px;
+  height: 86px;
+}
+
+.description {
+  margin-top: 489px;
+  margin-left: 448px;
+  width: 952px;
+  height: 201px;
+}
+
+.description h3 {
+  color: #837e9f;
+  font-size: 18px;
+  position: absolute;
+  left: 178px;
+  top: 30px;
+}
+
+.descp {
+  margin-top: 31px;
+  margin-left: 30px;
+}
+
+.description .time {
+  color: #837e9f;
+  font-size: 18px;
+  position: absolute;
+  left: 178px;
+  top: 61px;
+}
+
+.description .desc {
+  color: #837e9f;
+  font-size: 16px;
+  position: absolute;
+  left: 178px;
+  top: 107px;
+}
+
+.description ul {
+  color: #837e9f;
+  list-style: none;  
+  position: absolute;
+  left: 178px;
+  top: 138px;
+}
+
+.description li {
+  display: inline-block;
+  padding-right: 10px;
 }
